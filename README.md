@@ -4,3 +4,7 @@ This is a simple note taking application. When you click the get started button 
 
 
 Here is a link to the deployed page:
+[Click Here For Link](https://whispering-hamlet-82762.herokuapp.com/)
+
+
+<img src="note-taker-ss.png" alt="screeshot of note taker app">
